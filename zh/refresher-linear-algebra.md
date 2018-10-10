@@ -1,48 +1,48 @@
 1. **Linear Algebra and Calculus refresher**
 
-&#10230;
+&#10230; 线性代数和微积分回顾
 
 <br>
 
 2. **General notations**
 
-&#10230;
+&#10230; 通用符号
 
 <br>
 
 3. **Definitions**
 
-&#10230;
+&#10230; 定义
 
 <br>
 
 4. **Vector ― We note x∈Rn a vector with n entries, where xi∈R is the ith entry:**
 
-&#10230;
+&#10230; 向量 - 我们记 为一个 n 维的向量，其中 xi∈R 是第 i 维的项：
 
 <br>
 
 5. **Matrix ― We note A∈Rm×n a matrix with m rows and n columns, where Ai,j∈R is the entry located in the ith row and jth column:**
 
-&#10230;
+&#10230; 矩阵 - 我们记 A∈Rm×n 为一个 m 行 n 列的矩阵，其中 Ai,j∈R 是第 i 行 j 列的项：
 
 <br>
 
 6. **Remark: the vector x defined above can be viewed as a n×1 matrix and is more particularly called a column-vector.**
 
-&#10230;
+&#10230; 注意：如上定义的向量 x 可以被看做是一个 nx1 的矩阵，常被称为一个列向量。
 
 <br>
 
 7. **Main matrices**
 
-&#10230;
+&#10230; 主要的矩阵
 
 <br>
 
 8. **Identity matrix ― The identity matrix I∈Rn×n is a square matrix with ones in its diagonal and zero everywhere else:**
 
-&#10230;
+&#10230; 
 
 <br>
 
